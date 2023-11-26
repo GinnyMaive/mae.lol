@@ -61,8 +61,7 @@ of getting approval... to get on the waitlist... to start the multi-year process
 
 ## Are you a boy or a girl? What is your gender?
 
-Gender is weird and confusing, and figuring it out after living through decades of societal expectations/pressures is tricky! I hope I feel more
-comfortable identiftying (and believing) I am a girl as I transition and my presentation more closely matches who I am inside.
+I'm a girl, and always have been.
 
 ## Are You Sure? What if you are wrong or change your mind?
 
