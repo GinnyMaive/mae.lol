@@ -11,15 +11,13 @@ If you still wanna know something you can always talk to me or you can even [ask
 
 ## What should I call you, you seem to have too many names now
 
-Okay, that's fair.
+okay. yeah. that's fair.
 
-Mae or Maive are the names I generally go by. \
-With family and close friends, I go by Ginny.
+**Socially/casually:** ginny, ginny mae, or some ginny-based derivative. \
+**Work/professionally/adulting:** maive or mae
 
-It might seem odd that, despite my name being a custom build, I go by my middle name. That's because the name *Ginny Mae* sounds nice,
-and the name *Mae Ginny* sounds like a sentence fragment.
-
-Legally changing my name is in progress, but takes months. So I still have to use my legacy name in situations where that matters.
+Legally changing my name is in progress, but takes months. So I still have to use my legacy name in situations where that matters,
+like my Costco membership card.
 
 ## What if I get it wrong, should I just stop talking to you to be safe?
 
@@ -63,20 +61,10 @@ of getting approval... to get on the waitlist... to start the multi-year process
 
 ## Are you a boy or a girl? What is your gender?
 
-*most [accessible](/images/meme/tg.png) answer:* girl
-
-*most accurate answer:* non-binary transfemme demigirl
-
-* **non-binary:** my gender identity is more complicated than the gender binary ("male" / "female") you learned about in kindergarten
-* **transfemme:** i identify with femininity to a greater extent than other genders
-* **demigirl:** partially, but not fully, a girl or a woman
-
 Gender is weird and confusing, and figuring it out after living through decades of societal expectations/pressures is tricky! I hope I feel more
 comfortable identiftying (and believing) I am a girl as I transition and my presentation more closely matches who I am inside.
 
 ## Are You Sure? What if you are wrong or change your mind?
-
-Heh.
 
 Am I sure? Yes and no, but mostly yes.
 
@@ -171,8 +159,3 @@ source from the Wayback Machine, did a few very small tweaks, and then turned it
 (Throwbacks like 90's designs and 88x31 buttons are considered retro cool, so I am both a trend setter and a trend follower.)
 
 Alternatively and more simply stated: i think it's funny but ymmv
-
-## gnu/linux ?
-
-Yeah I actually kinda agree with the [gnu/linux copypasta](https://snug.moe/notes/9g4by8rf2n). \
-I kinda feel bad the gnu people don't get as much credit as they deserve.
