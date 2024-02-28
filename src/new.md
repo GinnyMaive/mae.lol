@@ -14,15 +14,12 @@ I am transitioning so my body is more aligned with my identity. I take a pill ev
 and a weekly injection to increase my estradiol levels. \
 Every now and again they burn the hair off my face with a laser. Basic stuff.
 
-#### I'm Ginny Maive and it's nice to finally meet you 💙💗🤍💗💙
+#### I'm Ginny Mae and it's nice to finally meet you 💙💗🤍💗💙
 
 ## Overview of Improvements
 
-* You can call me Mae or Maive!
-  * My chosen name is Ginny Maive; I’m keeping my last name.
-* [My pronouns are she/they](https://en.pronouns.page/@GinnyMaive)~ basically, I'm opting out of *he/him*.
-  * I'm understanding if you make a mistake or forget! Don't stress because it's actually pretty easy to disambiguate a mistake from an aggression! \
-  Sometimes even I forget to reply to my new name and pronouns!
+* You can call me Ginny or Ginny Mae! (I'm keeping my last name.)
+* [My pronouns are it/its](https://pronouns.cc/@ginny)~
 * I am transgender; to me this means I do not identify with the gender I was assigned at birth
 * Gender identity is innate and biological so I've always *been* transgender. That said...
   * I consciously realized I was transgender on 2022-12-22

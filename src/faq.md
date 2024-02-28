@@ -2,7 +2,7 @@
 layout: 1997.njk
 title: Hi! Here are some questions nobody's asked but might?
 ---
-My name is Ginny Maive, and you can call me Mae or Maive! I'm a stereotypical girl who likes: programming, video games, and lots of other nerdy things!
+My name is Ginny Mae, and you can call me Ginny or Ginny Mae! I'm a stereotypical girl who likes: programming, video games, and lots of other nerdy things!
 
 My life has changed a lot in the past few years, so I [wrote about it](/new/). I also thought people might have questions even though everything
 is *very straightforward*, so I pretended people asked me questions and answered them in advance!
@@ -11,10 +11,7 @@ If you still wanna know something you can always talk to me or you can even [ask
 
 ## What should I call you, you seem to have too many names now
 
-okay. yeah. that's fair.
-
-**Socially/casually:** ginny, ginny mae, or some ginny-based derivative. \
-**Work/professionally/adulting:** maive or mae
+okay. yeah. that's fair. in most places i use ginny, ginny mae, or some ginny-based derivative. At work I go by my middle name, Mae.
 
 Legally changing my name is in progress, but takes months. So I still have to use my legacy name in situations where that matters,
 like my Costco membership card.
@@ -118,13 +115,12 @@ My legal first/middle names will be Ginny Maive.
 
 *Ginny* came from a book series I loved reading when I was in my 20s. Ginny is the youngest daughter in a large family. She starts shy and somewhat frequently in need of saving, but grows into a powerful and
 fierce woman. I considered other names, but Ginny stuck. (As a side note, there was a high chance it’d have been Luna if a bunch of cis friends hadn’t named their stupid babies Luna and who
-even knows what gender those babies really are. {Come to think of it, Luna would have made my initials LMR which is basically “lamer” so I now forgive you if you named your child Luna and
-they are not stupid babies.})
+even knows what gender those babies really are. {Come to think of it, Luna would have made my initials LMR which is basically “lamer” so..... babies forgiven?})
 
 *Maive* (also spelled Maeve or Medb) is a queen from Irish mythology, described as “so beautiful that [she] robbed men of two-thirds of their valor upon seeing her”. Medb insisted on being
 equal in wealth with her partners, and when she realized she was short one very good bull she started a war. A lot of people died! Maive is goals.
 
-I like the flow of the two names together (Ginny Maive or Ginny Mae), as well as each name individually. I also like that they have different vibes. Ginny feels diminutive, soft, cute,
+I like the flow of the two names together as well as each name individually. I also like that they have different vibes. Ginny feels diminutive, soft, cute,
 and feminine. Mae is a single syllable and feels a bit more mature.
 
 Also, importantly: the domains and usernames were available.

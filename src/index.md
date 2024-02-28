@@ -1,6 +1,6 @@
 ---
 layout: 1997.njk
-title: Hi! I'm Ginny Maive! Welcome to my web page!
+title: Hi! I'm Ginny Mae! Welcome to my web page!
 ---
 ![an animated gif that says "welcome to my homepage"](/images/welcome.gif)
 
@@ -15,14 +15,13 @@ I'm Ginny Mae, a stereotypical girl who enjoys:
 * talking
 * shoes
 
-My pronouns are she/it. \
-I use the name Ginny or Ginny Mae socially, and Mae for when I am pretending to be an adult.
+My pronouns are it/its and you can call me Ginny or Ginny Mae or cute!
 
 I'm not too sure why you're here but maybe for one of these links! &#128073;&#x1f448;
 
 * gender/personality [changelog and patch notes](/new/)
 * [faq on me and gender](/faq/) and lots more!
-* [about this ginny maive](/about/) person
+* [about this ginny](/about/) person
 * way too much about my past and history \
   *(still working on that, it's really long you don't want to read it anyway tbh)*
 * my blog but since i will forget about it after a couple posts, I'm just forgetting it now
