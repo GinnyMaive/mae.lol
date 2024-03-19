@@ -1,6 +1,7 @@
 ---
 layout: 1997.njk
 title: logan meehan raped me (aka commenter25 / commenter)
+redirect_from: [/rapists/logan_meehan]
 ---
 In January 2024, Logan Meehan raped me.
 

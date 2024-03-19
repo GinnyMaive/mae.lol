@@ -1,6 +1,7 @@
 ---
 layout: 1997.njk
 title: my friendship with  logan meehan aka commenter25 aka commenter
+redirect_from: [/rapists/logan_meehan_friendship]
 ---
 Lots of people have judged me for having a friendship with Logan.
 
