@@ -1,29 +1,28 @@
 ---
-layout: 1997.njk
-title: Hi! Here are words to describe me.
+layout: layouts/about.njk
+title: "Here are some words to describe me~"
+description: "Hi! I'm Ginny Mae!
+
+
+I'm a software engineer, primarily interested in engineering tools and the engineering productivity/happiness space.
+"
 ---
-Hi! My name is Ginny Mae, gifted boy turned burnout girl.
+#### ginny mae fast facts!
 
-* autistic + adhd exclusive pre-order dlc
-* submissive like a guard dog
+* based in the seattle area (utc-8/-7)
+
+* working as a software engineer at a big tech company
+
+* weird, usually intentionally... but not always by choice
+
 * single parent
+
 * nerd
-* baby trans (hatched 2022-12-22; HRT 2023-03-14)
-* based in the seattle area, utc-8/-7
-* i like bulleted lists
 
-weird on main and easy to manipulate (call me pretty) \
-you can find me posting [weird thoughts that pop into my head](https://spinny.city/ginny)
+* autistic + adhd
 
-If you are nice we can be friends!
+* i sure do love bulleted lists
 
-Previous editions of me:
-
-* improv performer/director
-* New Yorker (i'm walkin' here!)
-* cyclist (longest ride ~85 miles)
-
-🏳️‍⚧️  egg cracked: 2022-12-22 \
-🏳️‍⚧️  HRT bday: 2023-03-14
-
-![](/images/mae_header.gif)
+* i'm transgender, which means my gender was incorrectly assigned when i was born.
+  * 🏳️‍⚧️ egg cracked: 2022-12-22
+  * 🏳️‍⚧️ HRT bday: 2023-03-14

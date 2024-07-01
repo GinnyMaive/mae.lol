@@ -1,6 +1,14 @@
 ---
-layout: 1997.njk
-title: today is my 1 year HRT anniversary!
+layout: "layouts/blogPost.njk"
+title: "today is my 1 year HRT anniversary!"
+blog_link_title: "HRT for me!"
+description: "i ramble a lot about HRT and the process of, like, becoming a girl, i guess?"
+
+redirect_from: [/posts/one_year_hrt]
+post_date: 2024-03-14 13:12:11
+blog_image: "/images/posts/one_year_hrt_collage.jpg"
+blog_image_thumbnail: "/images/posts/one_year_hrt_collage.jpg"
+author: ginny mae the gay
 ---
 today is my 1 year HRT anniversary!
 
@@ -28,8 +36,6 @@ what doesn’t get talked about a lot is how signifcant an impact hrt has on the
 i’m old to be this early in transition. i have little to no chance of ever presenting as a gender-conforming female.
 the small changes are nice to see and make me happy… but hrt hasn’t had a signficant impact on my appearance. if
 the only positive changes were physical, i might not bother taking hrt.
-
-![a trans girl appears!](/images/posts/one_year_hrt_collage.jpg)
 
 (an important note here: hrt isn’t what makes a person transgender. hrt isn’t necessary to validate someone’s transition or transness. I would still be transgender, still be a woman, and still be entirely valid in both of those things if I had never started hrt or chose to stop.)
 

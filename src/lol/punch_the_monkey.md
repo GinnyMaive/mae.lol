@@ -1,1 +1,0 @@
-lol i bet you used to click those punch the monkey ads didn't you

@@ -1,0 +1,65 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <section class="site-blog-header">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8 text-center">
+            <h1>{{title}}</h1>
+            <p>
+              {{des}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="site-blog">
+      <div class="container">
+        <div class="row">
+          {% for blogpost in posts %}
+          <div class="col-lg-6">
+            <article class="site-blog-post">
+              <div class="site-blog-post-thumb">
+                <img src="{{blogpost.data.blog_image_thumbnail}}" alt="post-thumb">
+              </div>
+              <div class="site-blog-post-content">
+                <span>{{blogpost.data.post_date | cute_date}}</span>
+                <h3><a href="{{blogpost.data.page.url}}">{{blogpost.data.title}}</a></h3>
+                <p>
+                  {{blogpost.data.description}}
+                </p>
+                <a href="{{blogpost.data.page.url}}" class="read-more">read "{{blogpost.data.blog_link_title}}" ></a>
+              </div>
+            </article>
+          </div>
+          {% endfor %}
+          <div class="col-12">
+            <div class="site-blog-pagination">
+              <nav>
+                <ul class="pagination">
+                  {% if pagination.href.previous %}
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.previous}}">Previous</a></li>
+                  {% endif %}
+                  {% for pageEntry in pagination.hrefs %}
+                    <li {% if page.url == pageEntry %}
+                            class='page-item active'
+                        {% else %}
+                            class='page-item'
+                        {% endif %}>
+                    <a class="page-link" href="{{ pageEntry }}">{{ loop.index }}</a>
+                    </li>
+                  {% endfor %}
+                  {% if pagination.href.next %}
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.next}}">Next</a></li>                        
+                  {% endif %}
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+{% endblock %}

@@ -1,42 +1,18 @@
 ---
-layout: 1997.njk
-title: Hi! I'm Ginny Mae! Welcome to my web page!
+layout: "layouts/homepage.njk"
+title: "ginny mae has a homepage (this is it)"
+hero:
+  subTitle: "ginny mae is a weird girl based in seattle, wa, usa"
+  title:
+    firstPara: "i'm just a gay girl,"
+    secondPara: "that believes in gay ideas"
+  seeWorkBtn:
+    text: "Blog"
+    link: "blog"
+  connectBtn: 
+    text: "About"
+    link: "about"
 ---
-![an animated gif that says "welcome to my homepage"](/images/welcome.gif)
+## hi there
 
-I'm Ginny Mae, a stereotypical girl who enjoys:
-
-* programming
-* video games
-* linux
-* puns
-* collecting domains
-* antiquated web design
-* talking
-* shoes
-
-My pronouns are it/its and you can call me Ginny or Ginny Mae or cute!
-
-I'm not too sure why you're here but maybe for one of these links! &#128073;&#x1f448;
-
-* gender/personality [changelog and patch notes](/new/)
-* [faq on me and gender](/faq/) and lots more!
-* [about this ginny](/about/) person
-* way too much about my past and history \
-  *(still working on that, it's really long you don't want to read it anyway tbh)*
-* my blog but since i will forget about it after a couple posts, I'm just forgetting it now
-
-I'm always open to talking to anyone and you don't have to worry if it's awkward because I am more awkward than you I promise!
-
-Hope you're having a great day!
-
-
-<br><br><br><br><br><br><br><br>
-
-<center> \
-<!--Begin ClickThru Network HTML--> \
-<a href="/lol/punch_the_monkey/"> \
-  <img src="/images/clickthru.gif" alt="Guaranteed visitors to your web site!" nosave width="100" height="50" border="0"> \
-</a> \
-<!--End ClickThru Network HTML--> \
-</center>
+it's ginny

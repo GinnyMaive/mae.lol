@@ -1,0 +1,11 @@
+{
+    "heading":"WANNA TALK TO A GINNY MAE TODAY?",
+  "submitBtn":{
+    "btnText":"Contact Info",
+    "btnLink":"contact"
+  },
+  "convBtn":{
+    "btnText":"Who?",
+    "btnLink":"about"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "footerLogo": "/assets/images/logo-footer.png",
+
+    "contactsHeading": "DM me :D",
+  "contactsInfo":[
+      {
+	  "icon": "/images/icons/matrix.png",
+	"link": "https://matrix.to/#/@ginny:mae.lol",
+	"text": "matrix ~ @ginny:mae.lol"
+    },
+      {
+	  "icon": "/images/icons/xmpp.png",
+      "link":"",
+      "text":"xmpp ~ ginny@aberrata.net"
+    },
+      {
+	  "icon": "/images/icons/discord.png",
+      "link":"",
+      "text":"discord ~ gintoxicating"
+      },
+      {
+	  "icon":"/images/icons/pp.jpg",
+	  "link":"https://pronouns.cc/@ginny",
+	  "text":"pronouns (she/her)"
+      },
+      {
+	  "icon": "/images/icons/email.png",
+      "link":"mailto:ginny@mae.lol",
+      "text":"email ~ ginny@mae.lol"
+    }
+  ],
+
+  "siteMapHeading":"Site Directory",
+  "siteMap":[
+    {
+      "link":"",
+	"text":"Home"
+    },
+    {
+      "link":"about",
+      "text":"About"
+    },
+      {
+	  "link":"faq",
+	  "text":"Gender FAQ"
+      },
+      {
+	  "link":"blog",
+	  "text":"Blog"
+      }
+  ],
+
+  "socialHeading":"Social Media",
+  "socialMedia":[
+      {
+	  "icon": "/images/icons/fedi.png",
+      "link":"https://mastodon.social/@gintoxicating",
+      "text":"mastodon / fedi"
+    },
+      {
+	  "icon": "/images/icons/steam.png",
+      "link":"https://steamcommunity.com/id/GinnyMaive/",
+      "text":"Steam"
+    },
+      {
+	  "icon": "/images/icons/github.png",
+      "link":"https://github.com/GinnyMaive/",
+	  "text":"Github D:"
+    }
+  ],
+    "friendsHeading": "friends!!! <3",
+    "friends": [
+	{
+	    "link": "https://aberrata.net/~mel/",
+	    "text": "Minnie Mel"
+	},
+	{
+	    "link": "https://le.alphamethyl.barr0w.net/~elysia/",
+	    "text": "elysia"
+	}
+
+    ],
+
+  "back2topIcon":"/assets/images/to-top.svg",
+  "customerComment":"Top of the Page"
+}
