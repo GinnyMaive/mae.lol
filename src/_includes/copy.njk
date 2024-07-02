@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Copy {{stringToCopy}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type=text/css>
+
+html, body {
+    height: 98%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.myButton {
+	background-color:white;
+	border-radius:6px;
+	border:3px solid #FF8100;
+	display:inline-block;
+	cursor:pointer;
+	color: #FF8100CC;
+	font-family:Arial;
+	font-size:28px;
+	padding:30px 76px;
+	text-decoration:none;
+    text-align: center;
+}
+.myButton:active {
+	background-color:#FF8100;
+    color: white;
+}
+
+div#thestuff {
+    text-align: center;
+    margin-top: 100px;
+    flex: 1 0 auto;
+}
+
+div#alert {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+footer {
+  flex-shrink: 0;
+  text-align: center;
+}
+
+a, a:visited {
+    color: black;
+}
+
+  </style>
+<link rel="icon" href="/favicon.ico">
+</head>
+
+<body>
+
+<div id="thestuff">
+<button class="js-copy-bob-btn myButton" id="button">click and copy {{stringToCopy}}</button><br /><br />
+</div>
+
+<script type="application/javascript">
+
+function copyTextToClipboard(text) {
+  var textArea = document.createElement("textarea");
+
+  // Place in top-left corner of screen regardless of scroll position.
+  textArea.style.position = 'fixed';
+  textArea.style.top = 0;
+  textArea.style.left = 0;
+
+  // Ensure it has a small width and height. Setting to 1px / 1em
+  // doesn't work as this gives a negative w/h on some browsers.
+  textArea.style.width = '2em';
+  textArea.style.height = '2em';
+
+  // We don't need padding, reducing the size if it does flash render.
+  textArea.style.padding = 0;
+
+  // Clean up any borders.
+  textArea.style.border = 'none';
+  textArea.style.outline = 'none';
+  textArea.style.boxShadow = 'none';
+
+  // Avoid flash of white box if rendered for any reason.
+  textArea.style.background = 'transparent';
+
+
+  textArea.value = text;
+
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+
+  try {
+    document.execCommand('copy');
+    tempAlert('copied probably! (⊃◜⌓◝⊂)', 2000);
+  } catch (err) {
+    tempAlert('i am a failure', 2000);
+  }
+
+  document.body.removeChild(textArea);
+}
+
+
+var copyBobBtn = document.querySelector('.js-copy-bob-btn')
+
+copyBobBtn.addEventListener('click', function(event) {
+  copyTextToClipboard('{{stringToCopy}}');
+});
+
+function tempAlert(msg,duration)
+{
+ var el = document.createElement("div");
+ var div = document.getElementById("thestuff");
+ el.setAttribute("id","alert");
+ el.innerHTML = msg;
+ var div = document.getElementById("thestuff");
+ setTimeout(function(){
+  el.parentNode.removeChild(el);
+ },duration);
+ div.appendChild(el);
+}
+
+  </script>
+</body>
+</html>
