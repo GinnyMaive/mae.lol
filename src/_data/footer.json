@@ -57,6 +57,10 @@
       {
 	  "link":"blog",
 	  "text":"Blog"
+      },
+      {
+	  "link":"contact",
+	  "text":"Contact Ginny!"
       }
   ],
 
