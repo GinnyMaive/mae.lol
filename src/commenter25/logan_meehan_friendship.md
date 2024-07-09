@@ -1,5 +1,5 @@
 ---
-layout: 1997.njk
+layout: layouts/genericPage.njk
 title: my friendship with  logan meehan aka commenter25 aka commenter
 redirect_from: [/rapists/logan_meehan_friendship]
 ---

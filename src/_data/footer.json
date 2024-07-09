@@ -38,11 +38,15 @@
     },
     {
       "link":"about",
-      "text":"About"
+      "text":"About Ginny"
     },
       {
+	  "link":"new",
+	  "text":"Ginny Updates?!"
+      },
+      {
 	  "link":"faq",
-	  "text":"Gender FAQ"
+	  "text":"The Ginny FAQ"
       },
       {
 	  "link":"blog",

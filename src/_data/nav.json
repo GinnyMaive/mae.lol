@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["home","about","portfolio","blog"],
+    "navLinks":["home","blog","faq", "about"],
   "navBtnLink":"contact",
-  "navBtnText":"Get in touch"
+  "navBtnText":"DM Me!"
 }

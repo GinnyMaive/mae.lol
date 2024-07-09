@@ -1,5 +1,5 @@
 ---
-layout: 1997.njk
+layout: layouts/genericPage.njk
 title: my friendship with commenter25 aka commenter
 ---
 Lots of people have judged me for having a friendship with Commenter.

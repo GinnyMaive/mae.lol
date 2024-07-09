@@ -1,5 +1,5 @@
 ---
-layout: 1997.njk
+layout: layouts/genericPage.njk
 title: logan meehan raped me (aka commenter25 / commenter)
 redirect_from: [/rapists/logan_meehan]
 ---

@@ -4,7 +4,17 @@ title: "Here are some words to describe me~"
 description: "Hi! I'm Ginny Mae!
 
 
-I'm a software engineer, primarily interested in engineering tools and the engineering productivity/happiness space.
+I'm a software engineer, primarily interested in engineering tools and the things that keep engineers productive and happy.
+
+
+I currently work at <a href=\"http://www.google.com/\" target=\"_blank\">a startup</a> after spending a couple years working
+for Microsoft.
+
+
+I like talking to people! Feel free to reach out - I'm on all the cool message platforms <3
+
+
+<small>This is the jankiest-designed page on the site.</small>
 "
 ---
 #### ginny mae fast facts!

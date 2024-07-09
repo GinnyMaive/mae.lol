@@ -1,5 +1,5 @@
 ---
-layout: 1997.njk
+layout: layouts/genericPage.njk
 title: commenter25 assaulted me (aka commenter25 / commenter)
 ---
 In January 2024, my best friend commenter25 sexually assaulted me.
