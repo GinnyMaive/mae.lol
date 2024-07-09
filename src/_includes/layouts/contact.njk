@@ -13,15 +13,20 @@
           <div class="col-lg-6 ml-auto">
             <div class="site-contact-form">
 	      {{content | safe}}
-            </div>
-          <div class="col-lg-6">
               <p class="">
               {% for contactInfo in footer.contactsInfo %}
                 <a href="{{contactInfo.link}}"><img src="{{contactInfo.icon}}" width=32 height=22 border=0 style="padding-right: 10px">{{contactInfo.text}}</a>
                 <br>
               {% endfor %}
               </p>
-
+<br><br>
+	      <p>I also post somewhat regularly on social media! You can follow me or DM me on those platforms if that's more your jam:</p>
+              <p class="">
+              {% for socialMedia in footer.socialMedia %}
+                <li><a href="{{socialMedia.link}}"><img src="{{socialMedia.icon}}" width=32 height=22 border=0 style="padding-right: 10px"> {{socialMedia.text}}</a></li>
+                {% endfor %}
+		</p>
+		
           </div>
 	</div>
 	</div>
