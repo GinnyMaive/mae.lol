@@ -1,6 +1,7 @@
 ---
 layout: layouts/genericPage.njk
 title: (bug fixes and improvements)
+page_image: "/images/posts/one_year_girl_collage.jpg"
 ---
 A long time ago I was born. The doctor, who was probably dumb and definitely a man, said "this is a boy!"
 Then the very same asshole wrote it on a bunch of legal documents too. Having gotten the ball rolling, I

@@ -1,6 +1,7 @@
 ---
 layout: layouts/genericPage.njk
 title: Hi! Here are some questions nobody's asked but might?
+page_image: "/images/posts/boy_kisser.png"
 ---
 My name is Ginny Mae, and you can call me Ginny or Ginny Mae! I'm a stereotypical girl who likes: programming, video games, and lots of other nerdy things!
 
