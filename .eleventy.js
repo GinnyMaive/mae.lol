@@ -8,9 +8,9 @@ module.exports = function(eleventyConfig) {
 			      .use(markdownItAnchor)
 			      .use(markdownItAttrs)
 			     );
-    eleventyConfig.addPassthroughCopy("/var/www/mae.lol/gay11ty/src/images");
-    eleventyConfig.addPassthroughCopy("/var/www/mae.lol/gay11ty/src/favicon.ico");
-    eleventyConfig.addPassthroughCopy("/var/www/mae.lol/gay11ty/src/assets");
+    eleventyConfig.addPassthroughCopy("/var/www/mae.lol/11ty/src/images");
+    eleventyConfig.addPassthroughCopy("/var/www/mae.lol/11ty/src/favicon.ico");
+    eleventyConfig.addPassthroughCopy("/var/www/mae.lol/11ty/src/assets");
 
     eleventyConfig.addFilter("cute_date", (dateObj) => {
 	return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
@@ -19,10 +19,10 @@ module.exports = function(eleventyConfig) {
     return {
 	passthroughFileCopy: true,
 	dir: {
-	    input: "/var/www/mae.lol/gay11ty/src",
+	    input: "/var/www/mae.lol/11ty/src",
 	    includes: "_includes",
 	    data: "_data",
-	    output: "/var/www/mae.lol/gaywww"
+	    output: "/var/www/mae.lol/www"
 	}
     };
 };
