@@ -70,7 +70,16 @@
 	  "icon": "/images/icons/fedi.png",
       "link":"https://mastodon.social/@gintoxicating",
       "text":"mastodon / fedi"
-    },
+      },
+
+      {
+          "icon": "/images/icons/fedi.png",
+	  "link":"https://chaosfem.tw/@ginny",
+	  "text":"mastodon (new!)"
+      },
+
+
+      
       {
 	  "icon": "/images/icons/steam.png",
       "link":"https://steamcommunity.com/id/GinnyMaive/",
