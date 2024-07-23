@@ -67,15 +67,9 @@
   "socialHeading":"Social Media",
   "socialMedia":[
       {
-	  "icon": "/images/icons/fedi.png",
-      "link":"https://mastodon.social/@gintoxicating",
-      "text":"mastodon / fedi"
-      },
-
-      {
           "icon": "/images/icons/fedi.png",
 	  "link":"https://chaosfem.tw/@ginny",
-	  "text":"mastodon (new!)"
+	  "text":"mastodon / fedi"
       },
 
 
