@@ -42,27 +42,26 @@
       </a>
     </section>
 
-<!--
     <section class="site-counter" id="counter">
       <div class="container">
         <div class="row">
           <div class="col-12">
             <div class="section-title">
-              <h2 class="text-white">{{achieve.title}}</h2>
+              <h2 class="text-white">{{contentTitle}}</h2>
             </div>
           </div>
-          {% for achievement in achieve.achievements %}
-          <div class="col-lg-3 col-md-6">
-            <div class="site-counter-item">
-              <span class="site-counter-item-title">{{achievement.title}}</span>
-              <h3 class="site-counter-item-number">{{achievement.counter}}</h3>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div class="">
+              <h2 class="text-white">{{content|safe}}</h2>
             </div>
-          </div> 
-          {% endfor %}
+          </div>
         </div>
       </div>
     </section>
 
+<!--
     <section class="site-project" id="project">
       <div class="container">
         <div class="row">
