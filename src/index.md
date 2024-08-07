@@ -25,7 +25,7 @@ In my professional career I've worked at a couple large tech companies. I've wor
 I primarily work on backend projects; most recently I've been developing large-scale data processing pipelines.
 
 I'm motivated by enabling other peoples' success: as a peer mentor I've helped dozens of engineers grow in their careers, as a lead I've helped new teammates
-become productive contributors, and as a manager helped my reports navigate the chaos and properly acknowledged for their hard work.
+become productive contributors, and as a manager helped my reports navigate chaos and get properly acknowledged for their work.
 
 I'm *absolutely terrible* at needless bureaucracy and toil.
 
