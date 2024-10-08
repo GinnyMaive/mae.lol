@@ -9,11 +9,6 @@
 	"text": "matrix ~ @ginny:mae.lol"
     },
       {
-	  "icon": "/images/icons/xmpp.png",
-      "link":"/copy/xmpp",
-      "text":"xmpp ~ ginny@aberrata.net"
-    },
-      {
 	  "icon": "/images/icons/discord.png",
       "link":"/copy/gintoxicating",
       "text":"discord ~ gintoxicating"
