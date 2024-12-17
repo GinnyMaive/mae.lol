@@ -31,5 +31,5 @@ I'm *absolutely terrible* at needless bureaucracy and toil.
 
 Beyond my professional life, I'm a single parent of an amazing daughter. I also write fiction and think about buying a 3D printer. I should buy one right?
 
-Online I post irreverent one-liners and correct hot tech takes [on Mastodon](https://chaosfem.tw/@ginny). \
+Online I post irreverent one-liners and correct hot tech takes [on Mastodon](https://transfem.social/@gin). \
 I'm funny even when nobody else thinks I am.
