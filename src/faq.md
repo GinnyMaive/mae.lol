@@ -8,8 +8,6 @@ My name is Ginny Mae, and you can call me Ginny or Ginny Mae! I'm a stereotypica
 My life has changed a lot in the past few years, so I [wrote about it](/new/). I also thought people might have questions even though everything
 is *very straightforward*, so I pretended people asked me questions and answered them in advance!
 
-If you still wanna know something you can always talk to me or you can even [ask me a question anonymously](https://retrospring.net/@ginny) too!
-
 ## What should I call you, you seem to have too many names now
 
 okay. yeah. that's fair. in most places i use ginny, ginny mae, or some ginny-based derivative. At work I go by my middle name, Mae.
@@ -144,14 +142,3 @@ malleable nor subject to external influence.
 ## How did you figure it out?
 
 [I tell the story over here!](/new/)
-
-## Why does your website look like this???
-
-web design is my passion
-
-The current site design, unless I do a redesign and forget to update this question, is a copy of the first proper website I launched back in 1997. I grabbed the
-source from the Wayback Machine, did a few very small tweaks, and then turned it into an [eleventy](https://www.11ty.dev/) template.
-
-(Throwbacks like 90's designs and 88x31 buttons are considered retro cool, so I am both a trend setter and a trend follower.)
-
-Alternatively and more simply stated: i think it's funny but ymmv

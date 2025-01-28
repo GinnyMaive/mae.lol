@@ -19,12 +19,6 @@
 	  "text":"pronouns (she/her)"
       },
       {
-          "icon":"/images/icons/retrospring.png",
-          "link":"https://retrospring.net/@ginny",
-          "text":"retrospring ~ @ginny"
-      },
-      
-      {
 	  "icon": "/images/icons/email.png",
       "link":"mailto:ginny@mae.lol",
       "text":"email ~ ginny@mae.lol"

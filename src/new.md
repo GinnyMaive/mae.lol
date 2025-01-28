@@ -20,7 +20,7 @@ Every now and again they burn the hair off my face with a laser. Basic stuff.
 ## Overview of Improvements
 
 * You can call me Ginny or Ginny Mae! (I'm keeping my last name.)
-* [My pronouns are it/its](https://pronouns.cc/@ginny)~
+* [My pronouns are she/her](https://pronouns.cc/@ginny)~
 * I am transgender; to me this means I do not identify with the gender I was assigned at birth
 * Gender identity is innate and biological so I've always *been* transgender. That said...
   * I consciously realized I was transgender on 2022-12-22
@@ -34,8 +34,7 @@ I made a page with [some questions you might have](/faq/). I'm also sharing my s
 
 ## The ~500-word essay of the story
 
-*I've tried to write a brief synopsys and the best I could was 1,500 words; I did eventually whittle it down to ~800 words. \
-<small>Don't worry though I kept [all those extra words and details](/tmi/)&nbsp; for you to read later!</small>*
+*I've tried to write a brief synopsys and the best I could was 1,500 words; I did eventually whittle it down to ~800 words.*
 
 **CONTENT WARNING: This section includes references to depression, anxiety, and suicide.**
 
@@ -53,8 +52,8 @@ except my daughter; I knew I wanted to be around for her, and I knew she needed 
 
 Meanwhile the world kept moving forward and getting worse, as was the style of the time.
 
-One basic and normal-feeling Wednesday I had a chat with a friend; she had just returned to work after quitting Twiatter (sic) when
-it got ruined by nazis and a billionaire, as was the style of the time.
+One basic and normal-feeling Wednesday I had a chat with a friend; she had just returned to work after quitting Twitter (sic) when
+it got ruined by a nazi billionaire, as is the style of the times.
 
 That evening I was bored and irritable. While epilating my chest for fun (I've been told most cis men do not own an epilator?),
 I decided I should delete my twitter and try out some other way to post short bits of textual nonsense.
@@ -76,7 +75,7 @@ or how to figure that out. I haven't shared that with anyone, so I'm using this 
 What's the difference between *wanting* to be a girl, and, like, actually *being* a girl and being trans? <small>(Spoiler: not as much as I assumed)</small>
 
 A bunch of people replied and were really nice! Some people had the same question, others had already answered it for themselves.
-Of note, [Prudence](https://prudencespossumpad.neocities.org/) sent me a [link to a site on gender dysphoria](https://genderdysphoria.fyi/en/).
+Of note, someone named Prudence sent me a [link to a site on gender dysphoria](https://genderdysphoria.fyi/en/).
 
 I spent 5 hours reading that entire website, and every page it links to.
 
